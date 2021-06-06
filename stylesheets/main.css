@@ -1,0 +1,24 @@
+
+@import url('http://fonts.cdnfonts.com/css/harry-potter');
+.outer_box{
+  padding:70px 100px;
+  color: #f2f2f2;
+  width: 100%;
+  height: 500px;
+  background:#e66037;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  vertical-align:middle;
+  font-family: 'Harry Potter', sans-serif;}
+  
+  .box{
+  
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  vertical-align:middle;
+  }
+ 
